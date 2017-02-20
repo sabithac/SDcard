@@ -1,9 +1,14 @@
 package com.example.exe4;
 
 import android.support.v7.app.ActionBarActivity;
+import android.widget.Button;
+import android.widget.TextView;
+import android.widget.EditText;
+import android.widget.Toast;
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
+import android.app.Activity;
 
 
 public class MainActivity extends ActionBarActivity {
